@@ -1,0 +1,82 @@
+body {
+    background-color: #7b7b7b; /* Replace with your desired color */
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+  
+.heading {
+    background-color: rgb(222, 226, 231);
+
+    margin: auto;
+    width: 50%;
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 4ch;
+    padding: 10px;
+}
+.headingText {
+    text-align: center;
+    color: rgb(126, 126, 126);
+}
+
+
+
+.schedule-box {
+    border: 2px solid #ddd;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: 20px auto;
+    font-family: Arial, sans-serif;
+    font-size: 1.2em; 
+  }
+  
+  .schedule-box dl {
+    margin: 0;
+  }
+  
+  .schedule-box dt {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  .schedule-box dd {
+    margin-left: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .schedule-box ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .schedule-box li {
+    background-color: #e0f7fa;
+    border: 1px solid #b2ebf2;
+    margin-bottom: 5px;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+
+.day {
+    text-align: center;
+    height: 30px;
+    border: 3px solid rgb(207, 238, 207);
+    border-radius: 4ch;
+    padding: 10px;
+    
+}
+
+.action {
+    text-align: center;
+    height: 30px;
+    border: 3px solid rgb(207, 238, 207);
+    border-radius: 4ch;
+    padding: 10px;
+}
+
+.schedule-box {
+    color: black;
+}
